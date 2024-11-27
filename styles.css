@@ -1,0 +1,63 @@
+header nav ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    font-family: 'Roboto', Times, serif;
+    font-size: 15px;
+    
+}
+header nav ul a{
+    text-decoration: none;
+    color: rgb(229, 171, 9);
+}
+
+.section1{
+    color: rgb(195, 98, 8);
+    font-family: 'Roboto', Times, serif;
+}
+p{
+    color: rgb(119, 118, 78);
+    font-family: 'Roboto', Times, serif;
+}   
+.section2{
+    color:rgb(195, 98, 8);
+    font-family: 'Roboto', Times, serif;
+}
+.ul2{
+    color: rgb(119, 118, 78);
+    font-family: 'Roboto', Times, serif;
+}
+.section3{
+    color:rgb(195, 98, 8);
+    font-family: 'Roboto', Times, serif;
+}
+.table1{
+    border-color:rgb(195, 98, 8);
+    background-color: rgb(216, 189, 241);
+}
+.content1{
+    color: black;
+    font-family: 'Roboto', Times, serif;
+}
+.content2{
+    color: black;
+    font-family: 'Roboto', Times, serif;
+}
+
+.section4{
+    color:rgb(195, 98, 8);
+    font-family: 'Roboto', Times, serif;
+}
+.label1{
+    color: rgb(119, 118, 78);
+    font-family: 'Roboto', Times, serif;
+}
+.selection{
+    color: rgb(119, 118, 78);
+    font-family: 'Roboto', Times, serif;
+}
+footer{
+    color: rgb(119, 118, 78);
+    font-family: 'Roboto', Times, serif;
+    text-align: center;
+}
